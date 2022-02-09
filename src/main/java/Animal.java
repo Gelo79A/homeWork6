@@ -1,5 +1,5 @@
 public abstract class Animal {
-    private String name;
+     String name;
     private int maxRun;
     private int maxSwim;
     private int run;
